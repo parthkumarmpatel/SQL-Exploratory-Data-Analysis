@@ -2,7 +2,7 @@
 
 This repository contains **SQL scripts** to perform **Exploratory Data Analysis (EDA)** on a **sales data warehouse**. The analysis is part of my **Data Warehouse Project**, and you can find the full project here:  
 👉 [Data Warehouse Project Link](https://github.com/parthkumarmpatel/SQL-Data-Warehouse)
-👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Analyst-Portfolio-)
+👉 [Data Analyst Portfolio Project Link](https://github.com/parthkumarmpatel/SQL-Data-Analyst-Portfolio-)
 ---
 
 ## 🚀 What’s inside
